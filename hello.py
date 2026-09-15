@@ -2,6 +2,7 @@
 # Each member adds their name below via their own pull request.
 
 team = [
+    "Daniyal",
 ]
 
 print("Hello from the NYC Train Alerts team!")
